@@ -1,7 +1,7 @@
 {
   "name": "@dodokw/react-native-android-java-usagestats",
   "version": "1.0.1",
-  "description": "React Native module to android module usagestats java source",
+  "description": "React Native android module usagestats java source",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
